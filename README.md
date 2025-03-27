@@ -69,7 +69,7 @@ This project was created as a final project submission for a front-end developme
 ## 📸 Screenshots
 
 ```
-![Homepage Screenshot](./assets/homepage-screenshot.png)
+![Homepage Screenshot](./assets/screenshot.png)
 ```
 
 ## 🧪 Development Info & Disclaimer
