@@ -69,7 +69,7 @@ This project was created as a final project submission for a front-end developme
 ## 📸 Screenshots
 
 ```
-![Homepage Screenshot](https://raw.githubusercontent.com/oliviaalarsen/terraglow-site/main/src/assets/screenshot.png)
+![Image](https://github.com/user-attachments/assets/22966139-4af3-49d8-831d-6aa0c3f9ea37)
 
 ```
 
