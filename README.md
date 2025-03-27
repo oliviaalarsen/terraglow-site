@@ -69,7 +69,7 @@ This project was created as a final project submission for a front-end developme
 ## 📸 Screenshots
 
 ```
-![Homepage Screenshot](https://github.com/yourusername/yourrepository/blob/main/assets/screenshot.png?raw=true)
+![Homepage Screenshot](./src/assets/screenshot.png)
 ```
 
 ## 🧪 Development Info & Disclaimer
