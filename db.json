@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "lip glow balm",
+      "brand": "terraglow",
+      "price": 18.99,
+      "shade": "sheer rosewood",
+      "description": "infused with peptides and jojoba oil for a subtle, natural glow"
+    },
+    {
+      "id": 2,
+      "name": "radiance skin tint",
+      "brand": "terraglow",
+      "price": 28,
+      "shade": "neutral sand",
+      "description": "lightweight tint formulated with hyaluronic acid for dewy, hydrated skin"
+    },
+    {
+      "id": 3,
+      "name": "soft matte clay blush",
+      "brand": "terraglow",
+      "price": 24.5,
+      "shade": "earth baked terracotta",
+      "description": "earth-baked pigments enriched with rosehip oil for a skin-loving flush"
+    },
+    {
+      "id": 4,
+      "name": "nourishing brow gel",
+      "brand": "terraglow",
+      "price": 22,
+      "shade": "soft taupe",
+      "description": "formulated with castor oil for flexible hold and healthy-looking brows"
+    },
+    {
+      "id": 5,
+      "name": "silken highlighter balm",
+      "brand": "terraglow",
+      "price": 26,
+      "shade": "sunlit pearl",
+      "description": "peptide-enriched balm for a subtle, skin-like luminosity"
+    }
+  ],
+  "cart": [
+    {
+      "productId": 2,
+      "amount": 1,
+      "id": 3
+    },
+    {
+      "productId": 3,
+      "amount": 1,
+      "id": 6
+    },
+    {
+      "productId": 5,
+      "amount": 1,
+      "id": 8
+    }
+  ]
+}
